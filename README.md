@@ -14,12 +14,8 @@ Programming (Jake Kirkman, tbd...):
 - Unity
 
 Story concepts (Alec Lockwood and Zander Sampo):
-  Zander:
-  https://docs.google.com/document/d/1-mh5y8yq4pTGhIU2qgIPggLOqaiJUebAXsNTn1GRm0c/edit?tab=t.0
-  
-  Alec:
-  ...
-===================================================================================================
+- Zander: https://docs.google.com/document/d/1-mh5y8yq4pTGhIU2qgIPggLOqaiJUebAXsNTn1GRm0c/edit?tab=t.0
+- Alec: ...
 
 Finalized Story:
 tbd (on 5/17)
