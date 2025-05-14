@@ -17,5 +17,5 @@ Story concepts (Alec Lockwood and Zander Sampo):
 - Zander: https://docs.google.com/document/d/1-mh5y8yq4pTGhIU2qgIPggLOqaiJUebAXsNTn1GRm0c/edit?tab=t.0
 - Alec: ...
 
-Finalized Story:
+Finalized Story (Alec Lockwood, Zander Sampo, and Jake Kirkman):
 tbd (on 5/17)
